@@ -8,7 +8,7 @@
 
 Open Unity, create a new project as shown below:
 
-.. image:: _static/4.1.png
+.. image:: _static/4.1.PNG
 Figure 4.1 Create New Project
 
 Create cube1, cube2, cube3, and configure their Transform information as follows:
